@@ -17,6 +17,7 @@ public class GT4500 implements SpaceShip {
 
   public boolean fireLaser(FiringMode firingMode) {
     // TODO
+    // I added this line to cause merge conflict
     return false;
   }
 
